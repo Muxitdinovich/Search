@@ -1,5 +1,5 @@
 # Search
-<pre>
+
 <!DOCTYPE HTML>
 <html>
   <head>
@@ -20,7 +20,7 @@
     </style>
   </body>
 </html>
-</pre>
+
 
 
 🌐 https://hablsearch.netlify.app/
